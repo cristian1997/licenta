@@ -1,0 +1,10 @@
+Dataset name: test
+Number of iterations: 1
+Loss function: exponential
+Train set size: 10
+Percent of positive (train set): 50%
+Train error: 30
+Validation set size: 10
+Percent of positive (validation set): 50%
+Validation error: 30
+Training duration: 0.000211

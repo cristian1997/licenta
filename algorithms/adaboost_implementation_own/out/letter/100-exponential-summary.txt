@@ -1,0 +1,10 @@
+Dataset name: letter
+Number of iterations: 100
+Loss function: exponential
+Train set size: 13262
+Percent of positive (train set): 4.01146%
+Train error: 0.904841
+Validation set size: 6738
+Percent of positive (validation set): 3.81419%
+Validation error: 0.86079
+Training duration: 0.20251

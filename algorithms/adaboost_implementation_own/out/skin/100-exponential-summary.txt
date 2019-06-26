@@ -1,0 +1,10 @@
+Dataset name: skin
+Number of iterations: 100
+Loss function: exponential
+Train set size: 122276
+Percent of positive (train set): 20.6966%
+Train error: 4.90284
+Validation set size: 122781
+Percent of positive (validation set): 20.811%
+Validation error: 5.08548
+Training duration: 1.04027

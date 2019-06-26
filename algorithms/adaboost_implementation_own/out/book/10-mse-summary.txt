@@ -1,0 +1,6 @@
+Dataset name: book
+Number of iterations: 10
+Loss function: mse
+Train set size: 9
+Percent of positive (train set): 44.4444%
+Train error: 0

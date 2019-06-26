@@ -1,0 +1,8 @@
+Dataset name: satimage
+Number of iterations: 2000
+Loss function: exponential
+Train set size: 4332
+Train error: 3.7396121883656486
+Test set size: 2098
+Test error: 5.0047664442326
+Training duration: 10.235381603240967

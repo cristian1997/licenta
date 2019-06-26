@@ -1,0 +1,8 @@
+Dataset name: mnist
+Number of iterations: 200
+Loss function: exponential
+Train set size: 60000
+Train error: 13.98166666666667
+Test set size: 10000
+Test error: 13.490000000000002
+Training duration: 369.30870175361633

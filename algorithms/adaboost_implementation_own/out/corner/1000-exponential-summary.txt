@@ -1,0 +1,8 @@
+Dataset name: corner
+Number of iterations: 1000
+Loss function: exponential
+Train set size: 20000
+Percent of positive (train set): 36.065%
+Train error: 31.39
+Validation set size: 1000
+Validation error: 33.1

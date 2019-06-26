@@ -1,0 +1,10 @@
+Dataset name: banknote
+Number of iterations: 50
+Loss function: logistic
+Train set size: 931
+Percent of positive (train set): 44.1461%
+Train error: 0
+Test set size: 441
+Percent of positive (test set): 45.1247%
+Test error: 0.226757
+Training duration: 0.003859

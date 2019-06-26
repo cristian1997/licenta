@@ -1,0 +1,10 @@
+Dataset name: immunotherapy
+Number of iterations: 0
+Loss function: 5
+Train set size: 90
+Percent of positive (train set): 21.1111%
+Train error: 78.8889
+Validation set size: 90
+Percent of positive (validation set): 21.1111%
+Validation error: 78.8889
+Training duration: 4.8e-05
